@@ -1,0 +1,22 @@
+{
+  "name": "webpack-workspaces",
+  "version": "1.0.0",
+  "description": "Alias for webpack-workspace",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldhand/webpack-workspaces.git"
+  },
+  "keywords": [
+    "webpack-workspace"
+  ],
+  "author": "Will Farley <a.will.farley@gmail.com> (https://goldhand.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldhand/webpack-workspace/issues"
+  },
+  "homepage": "https://github.com/goldhand/webpack-workspace#readme",
+  "dependencies": {
+    "webpack-workspace": "x"
+  }
+}
