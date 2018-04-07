@@ -1,6 +1,6 @@
 # webpack-workspaces
 [![npm][npm]][npm-url]
-[![node][node]][node-url]
+
 Alias for the [webpack-workspace] package. You probably meant to import that package instead.
 
 
